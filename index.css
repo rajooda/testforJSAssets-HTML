@@ -45,7 +45,7 @@
 .home-text {
   top: 0px;
   color: #e23737;
-  width: 100%;
+  width: auto;
   bottom: 0px;
   margin: auto;
   position: absolute;
