@@ -1,0 +1,1 @@
+# testforJSAssets-HTML
